@@ -44,7 +44,7 @@ class _BookedSuccessState extends State<BookedSuccess> {
             ),
             Center(
               child: Text(
-                  "Deliverance Church Int'l Utawala\n-The Church of Choice-",
+                  "Christians Church Kenya\nWe Believe in Jesus Christ",
                   textAlign: TextAlign.center,
                   style: GoogleFonts.openSans(
                       color: Colors.deepPurple,
@@ -85,7 +85,7 @@ class _BookedSuccessState extends State<BookedSuccess> {
                             ),
                             SizedBox(height: 10),
                             Text(
-                              'DELIVERANCE CHURCH INT\'l UTAWALA',
+                              'CHRISTIAN CHURCH KENYA',
                               textAlign: TextAlign.center,
                               style: GoogleFonts.openSans(
                                   color: Colors.deepPurple,
